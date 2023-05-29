@@ -1,0 +1,42 @@
+button{
+    border:none;
+    width: 60px;
+    height: 60px;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 60px;
+    background-color: black;
+    color: white;
+    font-weight: 100;
+}
+input {
+    border:none;
+    width: 250;
+    height: 50;
+    font-size: 50px;
+    text-align: right;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    font-weight: 100;
+}
+#estiloTabla{
+    background-color: black;
+}
+#buttonZero{
+    width: 120;
+    text-align: left;
+    padding-left: 25px;
+    height: 60px;
+    border-radius: 50px;
+}
+#colorNaranja{
+    background-color: #ff9501;
+}
+
+body{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%)translateY(-50%);
+}
